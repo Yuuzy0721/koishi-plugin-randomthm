@@ -12,10 +12,9 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin",
     "touhou"
   ],
   "peerDependencies": {
-    "koishi": "^4.17.0"
+    "koishi": "^4.16.0"
   }
 }
