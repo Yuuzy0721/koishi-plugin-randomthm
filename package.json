@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-rtm",
   "description": "随机东方曲",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -12,7 +12,8 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "touhou"
+    "touhou",
+    "music"
   ],
   "peerDependencies": {
     "koishi": "^4.16.0"
