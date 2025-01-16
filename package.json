@@ -2,6 +2,9 @@
   "name": "koishi-plugin-rtm",
   "description": "随机东方曲",
   "version": "1.0.0",
+  "contributors":[
+    "Yuuzy <adcb20091916@163.com>"
+  ],
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,6 +12,11 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/Yuuzy0721/koishi-plugin-rtm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuuzy0721/koishi-plugin-rtm.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
