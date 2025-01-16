@@ -1,5 +1,5 @@
 {
-  "name": "koishi-plugin-rtm",
+  "name": "koishi-plugin-randomthm",
   "description": "随机东方曲",
   "version": "1.0.0",
   "contributors":[
@@ -12,10 +12,10 @@
     "dist"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Yuuzy0721/koishi-plugin-rtm",
+  "homepage": "https://github.com/Yuuzy0721/koishi-plugin-randomthm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yuuzy0721/koishi-plugin-rtm.git"
+    "url": "git+https://github.com/Yuuzy0721/koishi-plugin-randomthm.git"
   },
   "keywords": [
     "chatbot",

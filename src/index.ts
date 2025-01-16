@@ -2,7 +2,7 @@ import { Context, Schema, h, Session } from 'koishi'
 import { id } from './id'
 
 
-export const name = 'rtm'
+export const name = 'randomthm'
 
 export interface Config {}
 
