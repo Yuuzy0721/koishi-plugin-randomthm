@@ -2,7 +2,7 @@
   "name": "koishi-plugin-randomthm",
   "description": "随机东方曲",
   "version": "1.0.0",
-  "contributors":[
+  "contributors": [
     "Yuuzy <adcb20091916@163.com>"
   ],
   "main": "lib/index.js",
@@ -24,6 +24,6 @@
     "music"
   ],
   "peerDependencies": {
-    "koishi": "^4.16.0"
+    "koishi": "^4.13.0"
   }
 }
