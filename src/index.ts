@@ -17,7 +17,7 @@ export const Config: Schema<Config> = Schema.object({
 export async function apply(ctx: Context, cfg: Config) {
   // api https://ncm.nekogan.com/song/url/v1?id=歌曲id&level=higher
   const logger = ctx.logger("randomthm")
-  ctx.command('rtm').alias('随机东方曲').action(async ({ session }) => {
+  ctx.command('rtm','随机东方曲').alias('随机东方曲').action(async ({ session }) => {
     if (!session) return
     var randomIndex = Math.floor(Math.random() * id.length)
     var randomid = id[randomIndex]
